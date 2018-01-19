@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>主页</h1>
+    <h2>哈哈</h2>
   </div>
 </template>
 <script>
